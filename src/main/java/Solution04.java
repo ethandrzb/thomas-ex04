@@ -1,11 +1,16 @@
 /*
- *  UCF COP3330 Fall 2021 Assignment 3 Solution
+ *  UCF COP3330 Fall 2021 Assignment 4 Solution
  *  Copyright 2021 Ethan Thomas
  */
 
 import java.util.Scanner;
 
-// <INSERT PSEUDOCODE SOLUTION HERE>
+// Pseudocode Solution
+// Prompt user for a noun and store input in <noun>
+// Prompt user for a verb and store input in <verb>
+// Prompt user for an adjective and store input in <adjective>
+// Prompt user for an adverb and store input in <adverb>
+// Print "Do you <verb> your <adjective> <noun> <adverb>? That's hilarious!"
 
 public class Solution04
 {
