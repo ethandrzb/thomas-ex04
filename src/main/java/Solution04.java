@@ -1,5 +1,5 @@
 /*
- *  UCF COP3330 Fall 2021 Assignment 4 Solution
+ *  UCF COP3330 Fall 2021 Assignment 1 Solution 4
  *  Copyright 2021 Ethan Thomas
  */
 
